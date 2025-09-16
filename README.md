@@ -1,0 +1,1 @@
+A project made in cooperation with Joe Clemens, who is an intern alongside me, we developed a simple static website for the Company we are working for, using HTML, CSS and Javascript, we will be adding backend support with node.js in the future.
